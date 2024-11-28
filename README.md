@@ -1,4 +1,12 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Discord bots!
+- 🌱 I’m currently learning how to use Python better
+- 👯 I’m looking to collaborate on Discord bots
+- 🤔 I’m looking for help with nothing!
+- 💬 Ask me about whatever
+- 📫 How to reach me: add me on discord: **sheepie0**
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: idk lol
 
 <!--
 **SheepieGamer/SheepieGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
