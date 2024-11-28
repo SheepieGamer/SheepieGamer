@@ -1,8 +1,8 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Discord bots!
-- 🌱 I’m currently learning how to use Python better
-- 👯 I’m looking to collaborate on Discord bots
-- 🤔 I’m looking for help with nothing!
+- 🔭 I’m currently working on HypiLite
+- 🌱 I’m currently learning Fast API
+- 👯 I’m looking to collaborate on HypiLite
+- 🤔 I’m looking for help with the Hypixel API
 - 💬 Ask me about whatever
 - 📫 How to reach me: add me on discord: **sheepie0**
 - 😄 Pronouns: he/him
